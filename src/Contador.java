@@ -22,7 +22,8 @@ public class Contador {
         System.out.println("digite qualquer coisa");
         String frase = scanner.nextLine();
 
-        System.out.println("o numero de letras amanh'A' na frase é de " + contadorDeLetras(frase));
+        System.out.println("o numero de letras'A' na frase é de " + contadorDeLetras(frase));
         scanner.close();
     }
 }
+
